@@ -1,3 +1,6 @@
 hello there
  how are you doing!
  live long and prosper
+ quote-1
+ quote-2
+ quote-3
